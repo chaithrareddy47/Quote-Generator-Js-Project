@@ -3,7 +3,7 @@
 A simple web app that displays a random quote every time you click a button. Built using **HTML**, **CSS**, and **JavaScript**.
 
 ## 🌐 Live Demo
-[Click here to see it live](https://your-username.github.io/quote-generator/) 
+[Click here to see it live](https://chaithrareddy47.github.io/Quote-Generator-Js-Project/) 
 
 ## 🚀 Features
 - Fetches quotes from a public API
@@ -17,8 +17,7 @@ A simple web app that displays a random quote every time you click a button. Bui
 - [Jacinto Design's Quote API](https://jacintodesign.github.io/quotes-api/data/quotes.json)
 - Google Fonts
 
-## 📸 Screenshot
-![Quote Generator Screenshot](screenshot.png) <!-- Optional: Add a screenshot -->
+
 
 ## 📁 Folder Structure
 quote-generator/
