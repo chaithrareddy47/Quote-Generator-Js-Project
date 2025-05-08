@@ -1,0 +1,83 @@
+
+ @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body{
+font-family: "Playfair Display";
+
+
+}
+
+
+
+.quote-container{
+    background-color: #EDECE3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 30px 20px;
+   width: 90%;
+   border-radius: 20px;
+   margin: 20px;
+  
+
+    
+}
+
+.quote-desc{
+margin: 10px;
+padding: 20px;
+}
+.heading{
+    border-left: 10px solid #C2C2BD;
+    padding-left: 20px;
+}
+
+.quote-left-container{
+    
+background-color: #FFFFFF;
+max-width: 100%;
+width: 400px;
+z-index: 1;
+border-radius: 10px;
+ box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+ padding: 20px;
+ height: auto;
+}
+.font{
+    position: relative;
+}
+.fa-quote-left{
+    position: absolute;
+    bottom: 100%;
+    font-size: 2.25rem;
+    color: #FEB046;
+}
+
+#quote{
+    font-size: 1rem;
+    color: #838383;
+    border-left: 4px solid #B4C4B2;
+    padding: 1rem;
+}
+
+#author{
+    padding: 0.75rem;
+    font-size: 1.25rem;
+
+}
+
+#btn{
+    border: none;
+    background-color: #727A7C;
+    color: white;
+    font-size: 1.3rem;
+    padding: 10px 30px;
+    border-radius: 10px;
+    cursor: pointer;
+}
